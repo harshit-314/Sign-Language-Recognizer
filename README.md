@@ -3,7 +3,6 @@
 This project uses a simple CNN to classify the alphabets in the American Sign Language.
 
 The data set consists of 2000 images of each alphabet, which has been split as 1750 for training and 250 for testing.
-It can be found here -  https://github.com/rrupeshh/Simple-Sign-Language-Detector/tree/master/mydata
 
 The model was trained on a very simple CNN with around 50,000 parameters and it gives an accuracy of 90-95%.
 The training time is around 30 minutes for 25 epochs.
